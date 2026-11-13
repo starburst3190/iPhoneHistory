@@ -74,6 +74,6 @@ xcrun simctl launch booted jackuang.iPhoneHistory -DeviceOverride iPhone4,1
 
 - 手機圖案為 SwiftUI 繪製的示意圖，沒有使用 Apple 的產品照片。iPhone 為 Apple Inc. 的商標。
 - 詳細頁背景照片：[Steve Jobs Theater - Auditorium](https://commons.wikimedia.org/wiki/File:Steve_Jobs_Theater_-_Auditorium.jpg)，Justin Ormont 攝，以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權；App 內有裁切、調暗，並在布幕區域蓋上黑色。
-- iPhone 18 Pro 與 iPhone Duo 規格取自 Apple 官網技術規格頁。
+- 規格資料：晶片、螢幕、尺寸、顏色名稱對照 [Apple 支援 iPhone 技術規格](https://support.apple.com/zh-tw/docs/iphone) 與 Apple 官網技術規格頁；售價與上市月份對照 [Apple Newsroom](https://www.apple.com/newsroom/) 的發表新聞稿；第一代 iPhone 與 iPhone 3G 的處理器參考英文維基百科。
 
 如有侵權疑慮，請開 issue 告知，會立即移除相關內容。
