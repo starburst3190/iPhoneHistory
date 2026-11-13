@@ -1,0 +1,9 @@
+# Xcode 編譯產物
+build/
+DerivedData/
+
+# 個人設定
+xcuserdata/
+
+# macOS
+.DS_Store
