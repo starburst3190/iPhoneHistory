@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistory-primary.dia",
+    "emit-module-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistory-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistory-primary-emit-module.dia",
+    "pch" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistory-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistory-primary.swiftdeps"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/ContentView.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/DesignEraView.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/DesignEraView~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/IPhoneModel.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/IPhoneModel~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/PhoneDetailView.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneDetailView~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/PhoneRow.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneRow~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/PhoneSilhouette.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneSilhouette~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/PhoneTimelineView.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/PhoneTimelineView~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/WebPageView.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/WebPageView~partial.swiftmodule"
+  },
+  "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/iPhoneHistory/iPhoneHistoryApp.swift" : {
+    "const-values" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp.swiftconstvalues",
+    "dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp.d",
+    "diagnostics" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp.dia",
+    "index-unit-output-path" : "/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp.o",
+    "llvm-bc" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp.bc",
+    "object" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp.o",
+    "swift-dependencies" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp.swiftdeps",
+    "swiftmodule" : "/Users/jack/Desktop/大四上/行動載具/iPhoneHistory/build/Build/Intermediates.noindex/iPhoneHistory.build/Debug-iphonesimulator/iPhoneHistory.build/Objects-normal/arm64/iPhoneHistoryApp~partial.swiftmodule"
+  }
+}
